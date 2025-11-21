@@ -31,7 +31,7 @@ Focus is on learning patterns, maintainability, and extensibility rather than re
 Prerequisites: Node.js and npm installed.
 
 1. Clone the repo and change directory:
-     - git clone git clone https://github.com/elizase405/alx-listing-app.git
+     - git clone https://github.com/elizase405/alx-listing-app.git
      - cd alx-listing-app
 2. Install dependencies:
      - npm install
